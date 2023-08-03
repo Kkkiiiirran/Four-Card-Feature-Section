@@ -17,7 +17,7 @@ This is a solution to the [Social proof section challenge on Frontend Mentor](ht
 
 ### Links
 
-- Solution URL: [solution](https://github.com/Kkkiiiirran/Four-Card-Feature-Section/settings/pages)
+- Solution URL: [solution](https://github.com/Kkkiiiirran/Four-Card-Feature-Section)
 - Live Site URL: [live site](https://kkkiiiirran.github.io/Four-Card-Feature-Section/)
 
 
